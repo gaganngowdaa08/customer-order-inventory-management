@@ -110,16 +110,16 @@ Spring Data JPA
 ## 📸 Application Screenshots
 
 ### Dashboard
-![StockFlow Dashboard](screenshots/dashboard.png)
+![StockFlow Dashboard](./screenshots/01-dashboard.png)
 
 ### Customer Management
-![Customer Management](screenshots/customers.png)
+![Customer Management](./screenshots/02-customers.png)
 
 ### Product Management
-![Product Management](screenshots/products.png)
+![Product Management](./screenshots/03-products.png)
 
 ### Order Management
-![Order Management](screenshots/orders.png)
+![Order Management](./screenshots/04-orders.png)
 
 ### Inventory Management
-![Inventory Management](screenshots/inventory.png)
+![Inventory Management](./screenshots/05-inventory.png)
