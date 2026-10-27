@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# React / Vite
+frontend/dist/
+dist/
+
+# Spring Boot local configuration
+src/main/resources/application.properties
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
