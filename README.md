@@ -105,6 +105,7 @@ Spring Data JPA
    Hibernate
        ↓
      MySQL
+```
 
 ## 📸 Application Screenshots
 
