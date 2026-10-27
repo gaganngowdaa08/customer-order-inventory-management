@@ -105,3 +105,20 @@ Spring Data JPA
    Hibernate
        ↓
      MySQLgit
+
+## 📸 Application Screenshots
+
+### Dashboard
+![StockFlow Dashboard](screenshots/dashboard.png)
+
+### Customer Management
+![Customer Management](screenshots/customers.png)
+
+### Product Management
+![Product Management](screenshots/products.png)
+
+### Order Management
+![Order Management](screenshots/orders.png)
+
+### Inventory Management
+![Inventory Management](screenshots/inventory.png)
