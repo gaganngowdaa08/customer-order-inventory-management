@@ -104,7 +104,7 @@ Spring Data JPA
        ↓
    Hibernate
        ↓
-     MySQLgit
+     MySQL
 
 ## 📸 Application Screenshots
 
